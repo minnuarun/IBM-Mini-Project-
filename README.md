@@ -105,10 +105,5 @@ This project provided practical exposure to the development of an AI-based educa
 **Project Title:** AI Personal Study Assistant  
 **Domain:** Artificial Intelligence and Education
 
-## 🔗 Project Links
-
-* **Chatbot:** [Launch Chatbot Widget](https://chatbase.co)
-* **Website:** [Visit Study Spark Hub](https://lovable.app)
-
 
 This repository contains the study materials, screenshots, project links, testing documentation, and other resources associated with the development of the AI Personal Study Assistant.
